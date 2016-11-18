@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 402ef2373bddb3d45b30433ca91af2c8
-timeCreated: 1478967675
+timeCreated: 1479476069
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -185,14 +185,11 @@ ModelImporter:
     resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
-    animationImportErrors: '
-
-      Imported file ''Malcolm@right_turn'' conversion failed: Required human bone
-      ''Hips'' not found
-
-
-'
-    animationImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'mixamo.com' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'mixamorig:Spine2' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n"
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     animationCompression: 3
